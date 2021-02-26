@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi there!
+
+Michael is here, just starting to learn;)!
